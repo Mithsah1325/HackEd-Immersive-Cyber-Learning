@@ -1,6 +1,6 @@
 # HackEd-Immersive-Cyber-Learning
 
-HackEd-Immersive-Cyber-Learning transforms abstract security concepts into interactive, personalized adventures. By leveraging LLMs, intelligent AI agents, and an intuitive Streamlit interface, CyberSaga creates an engaging learning experience that adapts to each user's needs and learning style.
+HackEd-Immersive-Cyber-Learning transforms abstract security concepts into interactive, personalized adventures. By leveraging LLMs, intelligent AI agents, and an intuitive Streamlit interface, HackEd creates an engaging learning experience that adapts to each user's needs and learning style.
 
 ## Overview
 HackEd takes users on narrative journeys through realistic cybersecurity scenarios where their decisions have meaningful consequences. Instead of passively consuming information about threats like phishing, ransomware, or social engineering, users become active participants in stories that teach practical security skills through experience.
@@ -21,8 +21,7 @@ HackEd takes users on narrative journeys through realistic cybersecurity scenari
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/CyberSaga.git
-   cd CyberSaga
+   git clone https://github.com/Mithsah1325/HackEd-Immersive-Cyber-Learning.git
    ```
 2. Create and activate a virtual environment (recommended):
    ```sh

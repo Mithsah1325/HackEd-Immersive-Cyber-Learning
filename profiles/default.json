@@ -1,0 +1,29 @@
+{
+  "user_id": "default",
+  "created_at": "2025-03-22T17:26:10.025289",
+  "last_updated": "2025-03-22T17:26:33.507001",
+  "personal_info": {
+    "name": "Mith",
+    "email": "f@gmail.com",
+    "industry": "technology",
+    "role": "it professional",
+    "experience_level": "intermediate"
+  },
+  "progress": {
+    "completed_scenarios": [],
+    "total_points": 0,
+    "scenarios_started": 0,
+    "scenarios_completed": 0,
+    "skill_levels": {
+      "phishing_awareness": 0,
+      "ransomware_prevention": 0,
+      "social_engineering_defense": 0,
+      "data_protection": 0,
+      "network_security": 0
+    }
+  },
+  "preferences": {
+    "difficulty": "adaptive",
+    "focus_areas": []
+  }
+}

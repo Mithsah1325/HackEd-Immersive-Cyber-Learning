@@ -1,9 +1,9 @@
-# CyberSaga: Immersive Cybersecurity Education Platform
+# HackEd-Immersive-Cyber-Learning
 
-CyberSaga transforms abstract security concepts into interactive, personalized adventures. By leveraging LLMs, intelligent AI agents, and an intuitive Streamlit interface, CyberSaga creates an engaging learning experience that adapts to each user's needs and learning style.
+HackEd-Immersive-Cyber-Learning transforms abstract security concepts into interactive, personalized adventures. By leveraging LLMs, intelligent AI agents, and an intuitive Streamlit interface, CyberSaga creates an engaging learning experience that adapts to each user's needs and learning style.
 
 ## Overview
-CyberSaga takes users on narrative journeys through realistic cybersecurity scenarios where their decisions have meaningful consequences. Instead of passively consuming information about threats like phishing, ransomware, or social engineering, users become active participants in stories that teach practical security skills through experience.
+HackEd takes users on narrative journeys through realistic cybersecurity scenarios where their decisions have meaningful consequences. Instead of passively consuming information about threats like phishing, ransomware, or social engineering, users become active participants in stories that teach practical security skills through experience.
 
 ## Features
 - **Adaptive Narrative Engine**: Uses large language models to generate dynamic, branching security scenarios.
